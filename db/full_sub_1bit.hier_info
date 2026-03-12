@@ -1,0 +1,26 @@
+|full_sub_1bit
+A => A.IN1
+B => B.IN1
+Bin => Bin.IN1
+D <= half_sub_1bit:HS2.D
+Bout <= Bout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|full_sub_1bit|half_sub_1bit:HS1
+A => D.IN0
+A => Bout.IN0
+B => D.IN1
+B => Bout.IN1
+D <= D.DB_MAX_OUTPUT_PORT_TYPE
+Bout <= Bout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|full_sub_1bit|half_sub_1bit:HS2
+A => D.IN0
+A => Bout.IN0
+B => D.IN1
+B => Bout.IN1
+D <= D.DB_MAX_OUTPUT_PORT_TYPE
+Bout <= Bout.DB_MAX_OUTPUT_PORT_TYPE
+
+

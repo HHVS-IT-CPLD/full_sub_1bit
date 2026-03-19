@@ -1,5 +1,5 @@
 # 1位元減器設計 (1-bit Subtractor Design)
-<img width="1198" height="375" alt="image" src="https://github.com/user-attachments/assets/f99974f8-a5cc-465b-8ac0-647975bcbd50" />
+
 
 ## 專案概述
 
@@ -113,6 +113,7 @@ module full_sub_1bit (
                                  ├─[OR]─── Bout
                             Bout1─┘
 ```
+<img width="1198" height="375" alt="image" src="https://github.com/user-attachments/assets/f99974f8-a5cc-465b-8ac0-647975bcbd50" />
 
 **步驟詳解：**
 

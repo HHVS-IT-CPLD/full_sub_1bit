@@ -113,7 +113,8 @@ module full_sub_1bit (
                                  ├─[OR]─── Bout
                             Bout1─┘
 ```
-<img width="1198" height="375" alt="image" src="https://github.com/user-attachments/assets/f99974f8-a5cc-465b-8ac0-647975bcbd50" />
+<img width="1198" height="375" alt="image" src="https://github.com/user-attachments/assets/8220a149-e9a4-480e-b6d7-127a0e164271" />
+
 
 **步驟詳解：**
 
